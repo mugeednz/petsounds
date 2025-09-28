@@ -1,0 +1,104 @@
+/*
+  Localizable.strings
+  petSounds
+
+  Created by Müge Deniz on 18.02.2025.
+*/
+
+// MARK: - PetHomeVC
+"cats" = "Katzen";
+"dogs" = "Hunde";
+
+// MARK: - SettingsVC
+"settings_title" = "EINSTELLUNGEN";
+"privacy_policy" = "Datenschutzrichtlinie";
+"terms_of_services" = "Nutzungsbedingungen";
+"get_premium" = "Premium erhalten";
+"help_and_support" = "Hilfe und Support";
+"rate_us" = "Bewerten Sie uns";
+
+// MARK: - PremiumVC
+"one_week" = "1 Woche";
+"one_month" = "1 Monat";
+"one_year" = "1 Jahr";
+"continue_button" = "Weiter";
+"restore" = "Wiederherstellen";
+"terms" = "Bedingungen";
+"privacy" = "Datenschutz";
+"premium_title" = "PREMIUM";
+
+// MARK: - WhistleVC
+"whistle_title" = "PFEIFE";
+"high" = "Hoch";
+"medium" = "Mittel";
+"low" = "Niedrig";
+"hold_to_play_sound" = "Drücken, um den Ton abzuspielen";
+
+// MARK: - DetailVC
+"detail_title" = "SPIELERISCH";
+"tap_to_play_sound" = "Tippen, um den Ton abzuspielen";
+
+// MARK: - NoticeVC
+"notice" = "HINWEIS";
+"ok" = "OK";
+"notice_message" = "Wählen Sie einen ruhigen Raum ohne Ablenkungen. Stellen Sie Ihrem Hund den Clicker vor dem Training vor. Halten Sie ein Leckerli in einer Hand und den Clicker in der anderen, klicken Sie einmal auf den Clicker und geben Sie Ihrem Hund sofort das Leckerli. Wiederholen Sie dies ein paar Mal, damit Ihr Hund die Verbindung zwischen dem Klick und der Belohnung erkennt.";
+
+// MARK: - ClickerVC
+"clicker" = "Clicker";
+"clicker_title" = "CLICKER";
+
+// MARK: - SelectPetVC
+"select_pet" = "HAUSTIER WÄHLEN";
+
+// MARK: - StartCallVC
+"start_call" = "Anruf starten";
+"your_call_will_be_started_now" = "IHR ANRUF WIRD JETZT GESTARTET.";
+
+// MARK: - IncommingCallVC
+"is_incoming_call" = "eingehender Anruf...";
+
+// MARK: - CallNoticeVC
+"notice" = "HINWEIS";
+"ok" = "OK";
+"notice_message" = "Wählen Sie das Haustier, das Sie anrufen möchten, um eine gute Zeit zu haben und Ihre Lieben zu überraschen. Überprüfen Sie Ihre Berechtigungen für Videoanrufe. Kein Haustier wird sich mit dieser lustigen Aktivität einsam fühlen.";
+
+// MARK: - PetChoosingCallVC
+"dog_translation" = "Hund Übersetzung";
+"cat_translation" = "Katze Übersetzung";
+"choose_to_translate" = "WÄHLEN ZUM ÜBERSETZEN";
+
+// MARK: - HumantoDogCallVC
+"humantodog_title" = "MENSCH ZU HUND";
+"humantocat_title" = "MENSCH ZU KATZE";
+
+// MARK: - TranslationVC
+"processing" = "Verarbeitung...";
+"translate_title" = "ÜBERSETZEN";
+
+// MARK: - FinalTranslationCallVC
+"translation_done" = "ÜBERSETZUNG ABGESCHLOSSEN";
+
+// MARK: - JSONFiles "Meaning"
+"I am tired, i need sleeping" = "Ich bin müde, ich muss schlafen";
+"I need to be burped" = "Ich muss aufstoßen";
+"I have to pee" = "Ich muss aufs Klo";
+"I'm experiencing discomfort, eg. Change my diaper" = "Ich fühle mich unwohl, z.B. wechsle meine Windel";
+"Come please" = "Komm bitte";
+"Play with me" = "Spiel mit mir";
+"Where is my food" = "Wo ist mein Essen";
+"NO, I Don't want" = "NEIN, ich will nicht";
+"hurry up" = "Beeil dich";
+"Bye bye" = "Tschüss";
+"I need this" = "Ich brauche das";
+"I need that" = "Ich brauche jenes";
+"where is my toys" = "Wo sind meine Spielsachen";
+"i want some food" = "Ich will etwas zu essen";
+"That is mine" = "Das gehört mir";
+"Look This is car" = "Schau, das ist ein Auto";
+"I love yo, kiss me please" = "Ich liebe dich, küss mich bitte";
+"Let's go here" = "Lass uns hierhin gehen";
+"strange" = "seltsam";
+"don't do this" = "Tu das nicht";
+"give me, give me" = "Gib mir, gib mir";
+
+"Loading" = "Laden";

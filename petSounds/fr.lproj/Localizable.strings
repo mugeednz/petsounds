@@ -1,0 +1,104 @@
+/*
+  Localizable.strings
+  petSounds
+
+  Created by Müge Deniz on 18.02.2025.
+*/
+
+// MARK: - PetHomeVC
+"cats" = "Chats";
+"dogs" = "Chiens";
+
+// MARK: - SettingsVC
+"settings_title" = "PARAMÈTRES";
+"privacy_policy" = "Politique de confidentialité";
+"terms_of_services" = "Conditions d'utilisation";
+"get_premium" = "Obtenez Premium";
+"help_and_support" = "Aide et support";
+"rate_us" = "Évaluez-nous";
+
+// MARK: - PremiumVC
+"one_week" = "1 Semaine";
+"one_month" = "1 Mois";
+"one_year" = "1 An";
+"continue_button" = "Continuer";
+"restore" = "Restaurer";
+"terms" = "Conditions";
+"privacy" = "Confidentialité";
+"premium_title" = "PREMIUM";
+
+// MARK: - WhistleVC
+"whistle_title" = "SIFFLET";
+"high" = "Haut";
+"medium" = "Moyenne";
+"low" = "Bas";
+"hold_to_play_sound" = "Maintenez pour jouer le son";
+
+// MARK: - DetailVC
+"detail_title" = "JOUETIF";
+"tap_to_play_sound" = "Touchez pour jouer le son";
+
+// MARK: - NoticeVC
+"notice" = "AVIS";
+"ok" = "D'accord";
+"notice_message" = "Choisissez une pièce calme, sans distractions. Avant de commencer l'entraînement, introduisez le clicker à votre chien. Avec la friandise dans une main et le clicker dans l'autre, cliquez une fois sur le clicker et donnez immédiatement la friandise à votre chien. Répétez cela plusieurs fois pour que votre chien associe le clic à la récompense.";
+
+// MARK: - ClickerVC
+"clicker" = "Clicker";
+"clicker_title" = "CLICKER";
+
+// MARK: - SelectPetVC
+"select_pet" = "SÉLECTIONNER UN ANIMAL";
+
+// MARK: - StartCallVC
+"start_call" = "Commencer l'appel";
+"your_call_will_be_started_now" = "VOTRE APPEL SERA LANCÉ MAINTENANT.";
+
+// MARK: - IncommingCallVC
+"is_incoming_call" = "appel entrant...";
+
+// MARK: - CallNoticeVC
+"notice" = "AVIS";
+"ok" = "D'accord";
+"notice_message" = "Choisissez l'animal que vous allez appeler pour passer un bon moment et surprendre vos proches. Vérifiez vos autorisations pour effectuer des appels vidéo. Aucun animal ne se sentira seul avec cette activité amusante.";
+
+// MARK: - PetChoosingCallVC
+"dog_translation" = "Traduction du chien";
+"cat_translation" = "Traduction du chat";
+"choose_to_translate" = "CHOISIR POUR TRADUIRE";
+
+// MARK: - HumantoDogCallVC
+"humantodog_title" = "HOMME À CHIEN";
+"humantocat_title" = "HOMME À CHAT";
+
+// MARK: - TranslationVC
+"processing" = "Traitement...";
+"translate_title" = "TRADUIRE";
+
+// MARK: - FinalTranslationCallVC
+"translation_done" = "TRADUCTION TERMINÉE";
+
+// MARK: - JSONFiles "Meaning"
+"I am tired, i need sleeping" = "Je suis fatigué, j'ai besoin de dormir";
+"I need to be burped" = "J'ai besoin de faire mon rot";
+"I have to pee" = "Je dois faire pipi";
+"I'm experiencing discomfort, eg. Change my diaper" = "Je ressens une gêne, par exemple change ma couche";
+"Come please" = "Viens s'il te plaît";
+"Play with me" = "Joue avec moi";
+"Where is my food" = "Où est ma nourriture";
+"NO, I Don't want" = "NON, je ne veux pas";
+"hurry up" = "Dépêche-toi";
+"Bye bye" = "Au revoir";
+"I need this" = "J'ai besoin de ça";
+"I need that" = "J'ai besoin de cela";
+"where is my toys" = "Où sont mes jouets";
+"i want some food" = "Je veux de la nourriture";
+"That is mine" = "C'est à moi";
+"Look This is car" = "Regarde, c'est une voiture";
+"I love yo, kiss me please" = "Je t'aime, embrasse-moi s'il te plaît";
+"Let's go here" = "Allons ici";
+"strange" = "étrange";
+"don't do this" = "Ne fais pas ça";
+"give me, give me" = "Donne-moi, donne-moi";
+
+"Loading" = "Chargement";

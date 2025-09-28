@@ -1,0 +1,10 @@
+/* 
+  InfoPlist .strings
+  petSounds
+
+  Created by Müge Deniz on 27.02.2025.
+  
+*/
+"NSMicrophoneUsageDescription" = "Bitte erlauben Sie den Zugriff auf das Mikrofon, um menschliche und Haustiersounds zu erkennen und zu analysieren.";
+"NSSpeechRecognitionUsageDescription" = "Bitte erlauben Sie den Zugriff auf die Spracherkennung, um menschliche und Haustiersounds zu erkennen und zu verarbeiten.";
+"NSCameraUsageDescription" = "Diese App benötigt Zugriff auf die Kamera, um die Videoanruffunktion zu aktivieren.";

@@ -1,0 +1,78 @@
+/*
+  Localizable.strings
+  petSounds
+
+  Created by Müge Deniz on 18.02.2025.
+*/
+
+// MARK: - PetHomeVC
+"cats" = "قطط";
+"dogs" = "كلاب";
+
+// MARK: - SettingsVC
+"settings_title" = "الإعدادات";
+"privacy_policy" = "سياسة الخصوصية";
+"terms_of_services" = "شروط الخدمة";
+"get_premium" = "احصل على مميز";
+"help_and_support" = "المساعدة والدعم";
+
+// MARK: - PremiumVC
+"one_week" = "أسبوع واحد";
+"one_month" = "شهر واحد";
+"one_year" = "سنة واحدة";
+"continue_button" = "استمرار";
+"restore" = "استعادة";
+"terms" = "الشروط";
+"privacy" = "الخصوصية";
+"premium_title" = "مميز";
+
+// MARK: - WhistleVC
+"whistle_title" = "صافرة";
+"high" = "مرتفع";
+"medium" = "متوسط";
+"low" = "منخفض";
+"hold_to_play_sound" = "اضغط لتشغيل الصوت";
+
+// MARK: - DetailVC
+"detail_title" = "مرح";
+"tap_to_play_sound" = "اضغط لتشغيل الصوت";
+
+// MARK: - NoticeVC
+"notice" = "إشعار";
+"ok" = "موافق";
+"notice_message" = "اختر غرفة هادئة وخالية من الإلهاءات. قبل بدء التدريب، قدم جهاز الضغط لكلبك. امسك المكافأة بيد واحدة وجهاز الضغط باليد الأخرى، واضغط على جهاز الضغط مرة واحدة وأعطِ كلبك المكافأة فورًا. كرر ذلك عدة مرات حتى يربط كلبك بين الصوت والمكافأة.";
+
+// MARK: - ClickerVC
+"clicker" = "جهاز الضغط";
+"clicker_title" = "جهاز الضغط";
+
+// MARK: - SelectPetVC
+"select_pet" = "اختيار حيوان أليف";
+
+// MARK: - StartCallVC
+"start_call" = "بدء المكالمة";
+"your_call_will_be_started_now" = "سيتم بدء مكالمتك الآن.";
+
+// MARK: - IncommingCallVC
+"is_incoming_call" = "مكالمة واردة...";
+
+// MARK: - CallNoticeVC
+"notice" = "إشعار";
+"ok" = "موافق";
+"notice_message" = "اختر الحيوان الأليف الذي ستتصل به لقضاء وقت ممتع ومفاجأة أحبائك. تحقق من الأذونات لإجراء مكالمات الفيديو. لن يشعر أي حيوان أليف بالوحدة مع هذه النشاطات الممتعة.";
+
+// MARK: - PetChoosingCallVC
+"dog_translation" = "ترجمة الكلب";
+"cat_translation" = "ترجمة القطة";
+"choose_to_translate" = "اختر للترجمة";
+
+// MARK: - HumantoDogCallVC
+"humantodog_title" = "الإنسان إلى كلب";
+"humantocat_title" = "الإنسان إلى قطة";
+
+// MARK: - TranslationVC
+"processing" = "جاري المعالجة...";
+"translate_title" = "ترجمة";
+
+// MARK: - FinalTranslationCallVC
+"translation_done" = "تمت الترجمة";

@@ -1,0 +1,104 @@
+/*
+  Localizable.strings
+  petSounds
+
+  Created by Müge Deniz on 18.02.2025.
+*/
+
+// MARK: - PetHomeVC
+"cats" = "Кошки";
+"dogs" = "Собаки";
+
+// MARK: - SettingsVC
+"settings_title" = "НАСТРОЙКИ";
+"privacy_policy" = "Политика конфиденциальности";
+"terms_of_services" = "Условия обслуживания";
+"get_premium" = "Получить Premium";
+"help_and_support" = "Помощь и поддержка";
+"rate_us" = "Оцените нас";
+
+// MARK: - PremiumVC
+"one_week" = "1 Неделя";
+"one_month" = "1 Месяц";
+"one_year" = "1 Год";
+"continue_button" = "Продолжить";
+"restore" = "Восстановить";
+"terms" = "Условия";
+"privacy" = "Конфиденциальность";
+"premium_title" = "ПРЕМИУМ";
+
+// MARK: - WhistleVC
+"whistle_title" = "Свисток";
+"high" = "Высокий";
+"medium" = "Средний";
+"low" = "Низкий";
+"hold_to_play_sound" = "Удерживайте для воспроизведения звука";
+
+// MARK: - DetailVC
+"detail_title" = "ИГРИВО";
+"tap_to_play_sound" = "воспроизвести звук";
+
+// MARK: - NoticeVC
+"notice" = "УВЕДОМЛЕНИЕ";
+"ok" = "ОК";
+"notice_message" = "Выберите тихую комнату, свободную от отвлекающих факторов. Перед началом тренировки ознакомьте свою собаку с кликером. Держите угощение в одной руке и кликер в другой, нажмите на кликер и сразу же дайте угощение собаке. Повторите несколько раз, чтобы ваша собака ассоциировала клик с вознаграждением.";
+
+// MARK: - ClickerVC
+"clicker" = "Кликер";
+"clicker_title" = "КЛИКЕР";
+
+// MARK: - SelectPetVC
+"select_pet" = "ВЫБРАТЬ ЖИВОТНОЕ";
+
+// MARK: - StartCallVC
+"start_call" = "Начать звонок";
+"your_call_will_be_started_now" = "ВАШ ЗВОНОК БУДЕТ НАЧАТ СЕЙЧАС.";
+
+// MARK: - IncommingCallVC
+"is_incoming_call" = "входящий звонок...";
+
+// MARK: - CallNoticeVC
+"notice" = "УВЕДОМЛЕНИЕ";
+"ok" = "ОК";
+"notice_message" = "Выберите животное, которое вы хотите позвать, чтобы повеселиться и удивить своих близких. Проверьте разрешения для видеозвонков. Ни одно животное не останется одиноким с этим веселым занятием.";
+
+// MARK: - PetChoosingCallVC
+"dog_translation" = "Перевод Собаки";
+"cat_translation" = "Перевод Кошки";
+"choose_to_translate" = "ВЫБРАТЬ ДЛЯ ПЕРЕВОДА";
+
+// MARK: - HumantoDogCallVC
+"humantodog_title" = "ЧЕЛОВЕК К СОБАКЕ";
+"humantocat_title" = "ЧЕЛОВЕК К КОШКЕ";
+
+// MARK: - TranslationVC
+"processing" = "Обработка...";
+"translate_title" = "ПЕРЕВОД";
+
+// MARK: - FinalTranslationCallVC
+"translation_done" = "ПЕРЕВОД ЗАВЕРШЕН";
+
+// MARK: - JSONFiles "Meaning"
+"I am tired, i need sleeping" = "Я устал, мне нужно поспать";
+"I need to be burped" = "Мне нужно отрыгнуть";
+"I have to pee" = "Мне нужно в туалет";
+"I'm experiencing discomfort, eg. Change my diaper" = "Мне некомфортно, например, поменяйте мой подгузник";
+"Come please" = "Подойди, пожалуйста";
+"Play with me" = "Поиграй со мной";
+"Where is my food" = "Где моя еда";
+"NO, I Don't want" = "НЕТ, я не хочу";
+"hurry up" = "Поторопись";
+"Bye bye" = "Пока-пока";
+"I need this" = "Мне нужно это";
+"I need that" = "Мне нужно то";
+"where is my toys" = "Где мои игрушки";
+"i want some food" = "Я хочу немного еды";
+"That is mine" = "Это мое";
+"Look This is car" = "Смотри, это машина";
+"I love yo, kiss me please" = "Я тебя люблю, поцелуй меня, пожалуйста";
+"Let's go here" = "Пойдем сюда";
+"strange" = "странно";
+"don't do this" = "Не делай этого";
+"give me, give me" = "Дай мне, дай мне";
+
+"Loading" = "Загрузка";

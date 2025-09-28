@@ -1,0 +1,134 @@
+[
+   {
+     "word": "woof woof",
+     "meaning": "I am hungry",
+     "turkish": "Acıktım",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "arf-arf",
+     "meaning": "I am tired, i need sleeping",
+     "turkish": "Yorgunum, uyumam gerek",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "bow-wow",
+     "meaning": "I need to be burped",
+     "turkish": "Gaz çıkarmam lazım",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "vov-vov-vov-vov",
+     "meaning": "I have to pee",
+     "turkish": "İşemem gerek",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "guf-guf",
+     "meaning": "I'm experiencing discomfort, eg. Change my diaper",
+     "turkish": "Rahatsızlık yaşıyorum",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "Arf, arf, arf!",
+     "meaning": "Come please",
+     "turkish": "Gel lütfen",
+     "feeling": "angry"
+   },
+   {
+     "word": "woff woff woff!",
+     "meaning": "Play with me",
+     "turkish": "Benimle oyna",
+     "feeling": "happy"
+   },
+   {
+     "word": "bow-wow-wow-wow!!",
+     "meaning": "Where is my food",
+     "turkish": "Yemeğim nerede",
+     "feeling": "angry"
+   },
+   {
+     "word": "Grrrrrr!! wow-wow-wow",
+     "meaning": "NO, I Don't want",
+     "turkish": "Hayır, istemiyorum",
+     "feeling": "sad"
+   },
+   {
+     "word": "gogh-hav-hav",
+     "meaning": "hurry up",
+     "turkish": "Acele et",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "hev-hev-hev",
+     "meaning": "Bye bye",
+     "turkish": "Güle Güle",
+     "feeling": "happy"
+   },
+   {
+     "word": "iggkkkk woof-woof",
+     "meaning": "I need this",
+     "turkish": "Buna ihtiyacım var",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "woof-woof-woof!!",
+     "meaning": "I need that",
+     "turkish": "Ona ihtiyacım var",
+     "feeling": "angry"
+   },
+   {
+     "word": "woef-woef-woef",
+     "meaning": "where is my toys",
+     "turkish": "Oyuncaklarım nerede",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "hov-hov-woof-hov",
+     "meaning": "i want some food",
+     "turkish": "Biraz yiyecek istiyorum",
+     "feeling": "happy"
+   },
+   {
+     "word": "Grr whof-whof",
+     "meaning": "That is mine",
+     "turkish": "O benimdir",
+     "feeling": "angry"
+   },
+   {
+     "word": "hav-hav!!!",
+     "meaning": "Look This is car",
+     "turkish": "Bak bu araba",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "ouaf-ouaf-eek-eek-ouaf",
+     "meaning": "I love yo, kiss me please",
+     "turkish": "Seni seviyorum, lütfen",
+     "feeling": "happy"
+   },
+   {
+     "word": "blaf-blaf-blaf",
+     "meaning": "Let's go here",
+     "turkish": "Buraya gidelim",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "Grrrrrr whof-whof-whof!!",
+     "meaning": "strange",
+     "turkish": "Yabancı",
+     "feeling": "uninterested"
+   },
+   {
+     "word": "grrrrrrr",
+     "meaning": "don't do this",
+     "turkish": "Bunu yapma",
+     "feeling": "angry"
+   },
+   {
+     "word": "Eek, eek",
+     "meaning": "give me, give me",
+     "turkish": "ver bana, bana ver",
+     "feeling": "sad"
+   }
+]

@@ -1,0 +1,104 @@
+/*
+  Localizable.strings
+  petSounds
+
+  Created by Müge Deniz on 18.02.2025.
+*/
+
+// MARK: - PetHomeVC
+"cats" = "Gatos";
+"dogs" = "Perros";
+
+// MARK: - SettingsVC
+"settings_title" = "AJUSTES";
+"privacy_policy" = "Política de privacidad";
+"terms_of_services" = "Términos de servicio";
+"get_premium" = "Obtener Premium";
+"help_and_support" = "Ayuda y soporte";
+"rate_us" = "Valóranos";
+
+// MARK: - PremiumVC
+"one_week" = "1 Semana";
+"one_month" = "1 Mes";
+"one_year" = "1 Año";
+"continue_button" = "Continuar";
+"restore" = "Restaurar";
+"terms" = "Términos";
+"privacy" = "Privacidad";
+"premium_title" = "PREMIUM";
+
+// MARK: - WhistleVC
+"whistle_title" = "Silbato";
+"high" = "Alto";
+"medium" = "Medio";
+"low" = "Bajo";
+"hold_to_play_sound" = "Mantén presionado para reproducir el sonido";
+
+// MARK: - DetailVC
+"detail_title" = "JUGUETÓN";
+"tap_to_play_sound" = "Toca para reproducir el sonido";
+
+// MARK: - NoticeVC
+"notice" = "AVISO";
+"ok" = "OK";
+"notice_message" = "Elige una habitación tranquila, libre de distracciones. Antes de comenzar el entrenamiento, presenta el clicker a tu perro. Con el premio en una mano y el clicker en la otra, presiona el clicker una vez y da el premio inmediatamente a tu perro. Repite esto varias veces para que tu perro asocie el clic con la recompensa.";
+
+// MARK: - ClickerVC
+"clicker" = "Clicker";
+"clicker_title" = "CLICKER";
+
+// MARK: - SelectPetVC
+"select_pet" = "SELECCIONAR MASCOTA";
+
+// MARK: - StartCallVC
+"start_call" = "Iniciar llamada";
+"your_call_will_be_started_now" = "TU LLAMADA SERÁ INICIADA AHORA.";
+
+// MARK: - IncommingCallVC
+"is_incoming_call" = "llamada entrante...";
+
+// MARK: - CallNoticeVC
+"notice" = "AVISO";
+"ok" = "OK";
+"notice_message" = "Elige la mascota que llamarás para divertirte y sorprender a tus seres queridos. Verifica tus permisos para realizar llamadas de video. Ninguna mascota se sentirá sola con esta divertida actividad.";
+
+// MARK: - PetChoosingCallVC
+"dog_translation" = "Traducción de Perro";
+"cat_translation" = "Traducción de Gato";
+"choose_to_translate" = "ELIGE PARA TRADUCIR";
+
+// MARK: - HumantoDogCallVC
+"humantodog_title" = "HUMANO A PERRO";
+"humantocat_title" = "HUMANO A GATO";
+
+// MARK: - TranslationVC
+"processing" = "Procesando...";
+"translate_title" = "TRADUCIR";
+
+// MARK: - FinalTranslationCallVC
+"translation_done" = "TRADUCCIÓN TERMINADA";
+
+// MARK: - JSONFiles "Meaning"
+"I am tired, i need sleeping" = "Estoy cansado, necesito dormir";
+"I need to be burped" = "Necesito eructar";
+"I have to pee" = "Tengo que hacer pipí";
+"I'm experiencing discomfort, eg. Change my diaper" = "Estoy incómodo, por ejemplo, cámbiame el pañal";
+"Come please" = "Ven por favor";
+"Play with me" = "Juega conmigo";
+"Where is my food" = "¿Dónde está mi comida?";
+"NO, I Don't want" = "NO, no quiero";
+"hurry up" = "Date prisa";
+"Bye bye" = "Adiós, adiós";
+"I need this" = "Necesito esto";
+"I need that" = "Necesito eso";
+"where is my toys" = "¿Dónde están mis juguetes?";
+"i want some food" = "Quiero algo de comida";
+"That is mine" = "Eso es mío";
+"Look This is car" = "Mira, esto es un coche";
+"I love yo, kiss me please" = "Te amo, bésame por favor";
+"Let's go here" = "Vamos aquí";
+"strange" = "extraño";
+"don't do this" = "No hagas esto";
+"give me, give me" = "Dame, dame";
+
+"Loading" = "Cargando";

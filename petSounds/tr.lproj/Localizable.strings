@@ -1,0 +1,102 @@
+/*
+  Localizable.strings
+  petSounds
+
+  Created by Müge Deniz on 18.02.2025.
+*/
+
+// MARK: - PetHomeVC
+"cats" = "Kediler";
+"dogs" = "Köpekler";
+
+// MARK: - SettingsVC
+"settings_title" = "AYARLAR";
+"privacy_policy" = "Gizlilik Politikası";
+"terms_of_services" = "Hizmet Şartları";
+"get_premium" = "Premium Satın Al";
+"help_and_support" = "Yardım ve Destek";
+"rate_us" = "Bizi Değerlendirin";
+
+// MARK: - PremiumVC
+"one_week" = "1 Hafta";
+"one_month" = "1 Ay";
+"one_year" = "1 Yıl";
+"continue_button" = "Devam Et";
+"restore" = "Geri Yükle";
+"terms" = "Hizmet";
+"privacy" = "Gizlilik";
+"premium_title" = "PREMIUM";
+// MARK: - WhistleVC
+"whistle_title" = "DÜDÜK";
+"high" = "Yüksek";
+"medium" = "Orta";
+"low" = "Düşük";
+"hold_to_play_sound" = "Sesi çalmak için basılı tutun";
+
+// MARK: - DetailVC
+"detail_title" = "EĞLENCELİ";
+"tap_to_play_sound" = "Sesi çalmak için dokun";
+
+// MARK: - NoticeVC
+"notice" = "UYARI";
+"ok" = "TAMAM";
+"notice_message" = "Sessiz ve dikkat dağıtıcı olmayan bir oda seçin. Eğitime başlamadan önce köpeğinize tıklayıcıyı tanıtın. Bir elinizde ödül maması, diğer elinizde tıklayıcı ile tıklayıcıya bir kez basın ve hemen köpeğinize ödülü verin. Bunu birkaç kez tekrarlayın, böylece köpeğiniz kısa sürede tıklamanın ödülle bağlantılı olduğunu öğrenir.";
+
+// MARK: - ClickerVC
+"clicker" = "Tıklayıcı";
+"clicker_title" = "TIKLAYICI";
+
+// MARK: - SelectPetVC
+"select_pet" = "EVCİL HAYVAN SEÇ";
+
+// MARK: - StartCallVC
+"start_call" = "Aramayı Başlat";
+"your_call_will_be_started_now" = "ARAMANIZ BIRAZDAN BAŞLAYACAK.";
+
+// MARK: - IncommingCallVC
+"is_incoming_call" = "Gelen arama...";
+
+// MARK: - CallNoticeVC
+"notice" = "UYARI";
+"ok" = "TAMAM";
+"notice_message" = " Eğlenceli vakit geçirmek ve sevdiklerinize sürpriz yapmak için arayacağınız evcil hayvanı seçin. Video görüşmesi yapmak için lütfen izinlerinizi kontrol edin. Bu eğlenceli aktiviteyle hiçbir evcil hayvan kendini yalnız hissetmeyecek.";
+// MARK: - PetChoosingCallVC
+"dog_translation" = "Köpek Çevirisi";
+"cat_translation" = "Kedi Çevirisi";
+"choose_to_translate" = "ÇEVİRİ YAPMAK İÇİN SEÇ";
+
+// MARK: - HumantoDogCallVC
+"humantodog_title" = "İNSANDAN KÖPEĞE";
+"humantocat_title" =  "İNSANDAN KEDİYE";
+
+// MARK: - HumantoDogCallVC
+"processing" = "İşleniyor...";
+"translate_title" = "ÇEVİR";
+
+// MARK: - FinalTranslationCallVC
+"translation_done" = "ÇEVİRİ TAMAMLANDI";
+
+// MARK: - JSONFiles "Meaning"
+"I am tired, i need sleeping" = "Yorgunum, Uyumam Gerekiyor";
+"I need to be burped" = "Gazım Çıktı";
+"I have to pee" = "Çişim Var";
+"I'm experiencing discomfort, eg. Change my diaper" = "Rahatsızlık Hissediyorum, Örn. Bezimi Değiştir";
+"Come please" = "Lütfen Gel";
+"Play with me" = "Benimle Oyna";
+"Where is my food" = "Yemeğim Nerede";
+"NO, I Don't want" = "Hayır, İstemiyorum";
+"hurry up" = "Acele Et";
+"Bye bye" = "Güle Güle";
+"I need this" = "Buna İhtiyacım Var";
+"I need that" = "Şuna İhtiyacım Var";
+"where is my toys" = "Oyuncaklarım Nerede";
+"i want some food" = "Yemek İstiyorum";
+"That is mine" = "Bu Benim";
+"Look This is car" = "Bak Bu Araba";
+"I love yo, kiss me please" = "Seni Seviyorum, Beni Öp Lütfen";
+"Let's go here" = "Buraya Gidelim";
+"strange" = "Garip";
+"don't do this" = "Bunu Yapma";
+"give me, give me" = "Ver Bana, Ver Bana";
+
+"Loading" = "Yükleniyor";

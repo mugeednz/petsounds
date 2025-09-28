@@ -1,0 +1,104 @@
+/*
+  Localizable.strings
+  petSounds
+
+  Created by Müge Deniz on 18.02.2025.
+*/
+
+// MARK: - PetHomeVC
+"cats" = "Cats";
+"dogs" = "Dogs";         
+
+// MARK: - SettingsVC
+"settings_title" = "SETTINGS";
+"privacy_policy" = "Privacy Policy";
+"terms_of_services" = "Terms of Services";
+"get_premium" = "Get Premium";
+"help_and_support" = "Help and Support";
+"rate_us" = "Rate Us";  
+
+// MARK: - PremiumVC
+"one_week" = "1 Week";
+"one_month" = "1 Month";
+"one_year" = "1 Year";
+"continue_button" = "Continue";
+"restore" = "Restore";
+"terms" = "Terms";
+"privacy" = "Privacy";
+"premium_title" = "PREMIUM";
+
+// MARK: - WhistleVC
+"whistle_title" = "WHISTLE";
+"high" = "High";
+"medium" = "Medium";
+"low" = "Low";
+"hold_to_play_sound" = "Hold to play sound";
+
+// MARK: - DetailVC
+"detail_title" = "PLAYFUL";
+"tap_to_play_sound" = "Tap to play sound";
+
+// MARK: - NoticeVC
+"notice" = "NOTICE";
+"ok" = "OK";
+"notice_message" = "Choose a quiet room, free of distractions. Before starting training, introduce the clicker to your dog. With the treat in one hand and the clicker in the other, click the clicker once and immediately give your dog the treat. Repeat this a few times so your dog soon learns to associate the click with the reward.";
+
+// MARK: - ClickerVC
+"clicker" = "Clicker";
+"clicker_title" = "CLICKER";
+
+// MARK: - SelectPetVC
+"select_pet" = "SELECT PET";
+
+// MARK: - StartCallVC
+"start_call" = "Start Call";
+"your_call_will_be_started_now" = "YOUR CALL WILL BE STARTED NOW.";
+
+// MARK: - IncommingCallVC
+"is_incoming_call" = "is incoming call...";
+
+// MARK: - CallNoticeVC
+"notice" = "NOTICE";
+"ok" = "OK";
+"notice_message" = "Choose the pet you will call to have a fun time and surprise your loved ones. Check your permissions to make video calls. No pet will feellonely with this fun activity.";
+// MARK: - PetChoosingCallVC
+"dog_translation" = "Dog Translation";
+"cat_translation" = "Cat Translation";
+"choose_to_translate" = "CHOOSE TO \nTRANSLATE";
+
+// MARK: - HumantoDogCallVC
+"humantodog_title" = "HUMAN TO DOG";
+"humantocat_title" = "HUMAN TO CAT";
+
+// MARK: - TranslationVC
+"processing" = "Processing...";
+"translate_title" = "TRANSLATE";
+
+// MARK: - FinalTranslationCallVC
+"translation_done" = "TRANSLATION DONE";
+
+
+// MARK: - JSONFiles "Meaning"
+"I am tired, i need sleeping" = "I am tired, i need sleeping";
+"I need to be burped" = "I need to be burped";
+"I have to pee" = "I have to pee";
+"I'm experiencing discomfort, eg. Change my diaper" = "I'm experiencing discomfort, eg. Change my diaper";
+"Come please" = "Come please";
+"Play with me" = "Play with me";
+"Where is my food" = "Where is my food";
+"NO, I Don't want" = "NO, I Don't want";
+"hurry up" = "hurry up";
+"Bye bye" = "Bye bye";
+"I need this" = "I need this";
+"I need that" = "I need that";
+"where is my toys" = "where is my toys";
+"i want some food" = "i want some food";
+"That is mine" = "That is mine";
+"Look This is car" = "Look This is car";
+"I love yo, kiss me please" = "I love yo, kiss me please";
+"Let's go here" = "Let's go here";
+"strange" = "strange";
+"don't do this" = "don't do this";
+"give me, give me" = "give me, give me";
+
+"Loading" = "Loading";

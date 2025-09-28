@@ -1,0 +1,104 @@
+/*
+  Localizable.strings
+  petSounds
+
+  Created by Müge Deniz on 18.02.2025.
+*/
+
+// MARK: - PetHomeVC
+"cats" = "Gatti";
+"dogs" = "Cani";
+
+// MARK: - SettingsVC
+"settings_title" = "IMPOSTAZIONI";
+"privacy_policy" = "Politica sulla privacy";
+"terms_of_services" = "Termini di servizio";
+"get_premium" = "Ottieni Premium";
+"help_and_support" = "Aiuto e supporto";
+"rate_us" = "Valutaci";
+
+// MARK: - PremiumVC
+"one_week" = "1 Settimana";
+"one_month" = "1 Mese";
+"one_year" = "1 Anno";
+"continue_button" = "Continua";
+"restore" = "Ripristina";
+"terms" = "Termini";
+"privacy" = "Privacy";
+"premium_title" = "PREMIUM";
+
+// MARK: - WhistleVC
+"whistle_title" = "Fischio";
+"high" = "Alto";
+"medium" = "Medio";
+"low" = "Basso";
+"hold_to_play_sound" = "Tieni premuto per riprodurre il suono";
+
+// MARK: - DetailVC
+"detail_title" = "DIVERTENTE";
+"tap_to_play_sound" = "Tocca per riprodurre il suono";
+
+// MARK: - NoticeVC
+"notice" = "AVVISO";
+"ok" = "OK";
+"notice_message" = "Scegli una stanza tranquilla, priva di distrazioni. Prima di iniziare l'addestramento, presenta il clicker al tuo cane. Con il premio in una mano e il clicker nell'altra, premi il clicker una volta e dai subito il premio al tuo cane. Ripeti questo processo alcune volte affinché il tuo cane associ il suono del clicker al premio.";
+
+// MARK: - ClickerVC
+"clicker" = "Clicker";
+"clicker_title" = "CLICKER";
+
+// MARK: - SelectPetVC
+"select_pet" = "SELEZIONA UN ANIMALE";
+
+// MARK: - StartCallVC
+"start_call" = "Avvia chiamata";
+"your_call_will_be_started_now" = "LA TUA CHIAMATA VERRA' AVVIATA ADESSO.";
+
+// MARK: - IncommingCallVC
+"is_incoming_call" = "chiamata in arrivo...";
+
+// MARK: - CallNoticeVC
+"notice" = "AVVISO";
+"ok" = "OK";
+"notice_message" = "Scegli l'animale che chiamerai per divertirti e sorprendere i tuoi cari. Controlla le tue autorizzazioni per le chiamate video. Nessun animale si sentirà solo con questa attività divertente.";
+
+// MARK: - PetChoosingCallVC
+"dog_translation" = "Traduzione Cane";
+"cat_translation" = "Traduzione Gatto";
+"choose_to_translate" = "SCEGLI PER TRADURRE";
+
+// MARK: - HumantoDogCallVC
+"humantodog_title" = "DA UMANO A CANE";
+"humantocat_title" = "DA UMANO A GATTO";
+
+// MARK: - TranslationVC
+"processing" = "Elaborazione...";
+"translate_title" = "TRADURRE";
+
+// MARK: - FinalTranslationCallVC
+"translation_done" = "TRADUZIONE COMPLETATA";
+
+// MARK: - JSONFiles "Meaning"
+"I am tired, i need sleeping" = "Sono stanco, ho bisogno di dormire";
+"I need to be burped" = "Ho bisogno di fare il ruttino";
+"I have to pee" = "Devo fare pipì";
+"I'm experiencing discomfort, eg. Change my diaper" = "Provo disagio, ad esempio cambia il mio pannolino";
+"Come please" = "Vieni per favore";
+"Play with me" = "Gioca con me";
+"Where is my food" = "Dov'è il mio cibo";
+"NO, I Don't want" = "NO, non voglio";
+"hurry up" = "Sbrigati";
+"Bye bye" = "Ciao ciao";
+"I need this" = "Ho bisogno di questo";
+"I need that" = "Ho bisogno di quello";
+"where is my toys" = "Dove sono i miei giocattoli";
+"i want some food" = "Voglio un po' di cibo";
+"That is mine" = "Questo è mio";
+"Look This is car" = "Guarda, questa è una macchina";
+"I love yo, kiss me please" = "Ti amo, baciami per favore";
+"Let's go here" = "Andiamo qui";
+"strange" = "strano";
+"don't do this" = "Non farlo";
+"give me, give me" = "Dammi, dammi";
+
+"Loading" = "Caricamento";
