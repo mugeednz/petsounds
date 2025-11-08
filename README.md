@@ -12,7 +12,7 @@ It combines engaging animations, vibrant UI, and responsive audio feedback to ke
 - 🔈 High-quality ambient and playful sounds powered by AVFoundation  
 - 🧩 Customizable sound sets (training, relaxation, playtime)  
 - 💤 Background playback for calm environments  
-- ⚡ Smooth SwiftUI transitions and dynamic effects  
+- ⚡ Smooth transitions and dynamic effects  
 
 ---
 
